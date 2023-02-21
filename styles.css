@@ -11754,7 +11754,7 @@ section#contact form#contactForm .form-control:focus {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: #D450BC;
+  background: #000000;
   transition: opacity 0.25s ease;
   text-align: center;
 }
